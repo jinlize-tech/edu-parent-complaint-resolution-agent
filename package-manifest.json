@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-014",
+  "repository_name": "edu-parent-complaint-resolution-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-parent-complaint-resolution-agent-v1.0.0.zip",
+  "sha256": "5B2A849E0F6BCD68FE17A5DA097A3A86FB8DF5775B65DD5B853A51FEDCA4350D",
+  "bytes": 11924,
+  "entries": [
+    "edu-parent-complaint-resolution-agent/.codebuddy-plugin/plugin.json",
+    "edu-parent-complaint-resolution-agent/agents/edu-parent-complaint-resolution-agent.md",
+    "edu-parent-complaint-resolution-agent/avatars/expert.png",
+    "edu-parent-complaint-resolution-agent/README.md"
+  ],
+  "built_at": "2026-11-06T22:42:03.0210190+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

@@ -1,0 +1,24 @@
+{
+  "number": 67,
+  "product_id": "JLZ-EDU-AG-014",
+  "chinese_name": "家长投诉全流程处理",
+  "english_name": "Parent Complaint Resolution Agent",
+  "repository_name": "edu-parent-complaint-resolution-agent",
+  "product_type": "Agent",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-parent-complaint-resolution-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "投诉历史、事实材料、涉事环节、家长诉求、机构措施和沟通目标",
+  "main_output": "调查计划、分阶段沟通、解决方案选项、升级规则、关闭条件和复盘报告",
+  "package_entries": [
+    "edu-parent-complaint-resolution-agent/.codebuddy-plugin/plugin.json",
+    "edu-parent-complaint-resolution-agent/agents/edu-parent-complaint-resolution-agent.md",
+    "edu-parent-complaint-resolution-agent/avatars/expert.png",
+    "edu-parent-complaint-resolution-agent/README.md"
+  ]
+}
