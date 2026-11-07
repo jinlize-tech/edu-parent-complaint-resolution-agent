@@ -6,7 +6,7 @@ displayName:
   zh: '家长投诉全流程处理'
 profession:
   en: 'Parent Complaint Resolution Agent'
-  zh: ''
+  zh: '家长投诉处理专家'
 maxTurns: 50
 ---
 
